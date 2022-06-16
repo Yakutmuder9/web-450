@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-Student-Admin-Dashboard/static/css/main.7da460c4.css",
+    "main.js": "/React-Student-Admin-Dashboard/static/js/main.dad17551.js",
+    "static/media/p7.jpg": "/React-Student-Admin-Dashboard/static/media/p7.37a8e05374b981e6183c.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-Student-Admin-Dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/error.png": "/React-Student-Admin-Dashboard/static/media/error.4a8faa75c16c41b0c22f.png",
+    "static/media/webapp.png": "/React-Student-Admin-Dashboard/static/media/webapp.4084c8d08c6f39665c21.png",
+    "static/media/web2022.png": "/React-Student-Admin-Dashboard/static/media/web2022.e4c95644b43f09019086.png",
+    "static/media/fontawesome-webfont.eot": "/React-Student-Admin-Dashboard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/React-Student-Admin-Dashboard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/web.png": "/React-Student-Admin-Dashboard/static/media/web.aa5cca39604a2d9d25f7.png",
+    "static/media/p4.jpg": "/React-Student-Admin-Dashboard/static/media/p4.507928659d0c38f99b9e.jpg",
+    "static/media/p1.jpg": "/React-Student-Admin-Dashboard/static/media/p1.493b2b98cac22f65d03b.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/React-Student-Admin-Dashboard/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/React-Student-Admin-Dashboard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/p6.jpg": "/React-Student-Admin-Dashboard/static/media/p6.43b791fb143f86836d88.jpg",
+    "static/media/nothing.svg": "/React-Student-Admin-Dashboard/static/media/nothing.c4868da52908c606835d34775ed61a7e.svg",
+    "static/media/google.png": "/React-Student-Admin-Dashboard/static/media/google.9db27c1011edb821b59c.png",
+    "static/media/cool.svg": "/React-Student-Admin-Dashboard/static/media/cool.59add336ffb4a062b78e04ed80f97b85.svg",
+    "static/media/p5.jpg": "/React-Student-Admin-Dashboard/static/media/p5.1ec2ffb277f0cde9eec7.jpg",
+    "static/media/login.svg": "/React-Student-Admin-Dashboard/static/media/login.b5c368fe798b4d6f8fd941a5120a9cf5.svg",
+    "static/media/slick.svg": "/React-Student-Admin-Dashboard/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-Student-Admin-Dashboard/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-Student-Admin-Dashboard/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-Student-Admin-Dashboard/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-Student-Admin-Dashboard/index.html",
+    "main.7da460c4.css.map": "/React-Student-Admin-Dashboard/static/css/main.7da460c4.css.map",
+    "main.dad17551.js.map": "/React-Student-Admin-Dashboard/static/js/main.dad17551.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da460c4.css",
+    "static/js/main.dad17551.js"
+  ]
+}
