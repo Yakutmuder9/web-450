@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Student-Admin-Dashboard/static/css/main.7da460c4.css",
-    "main.js": "/React-Student-Admin-Dashboard/static/js/main.dad17551.js",
+    "main.js": "/React-Student-Admin-Dashboard/static/js/main.1bbe6671.js",
     "static/media/p7.jpg": "/React-Student-Admin-Dashboard/static/media/p7.37a8e05374b981e6183c.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/React-Student-Admin-Dashboard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/error.png": "/React-Student-Admin-Dashboard/static/media/error.4a8faa75c16c41b0c22f.png",
@@ -26,10 +26,10 @@
     "static/media/slick.woff": "/React-Student-Admin-Dashboard/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/React-Student-Admin-Dashboard/index.html",
     "main.7da460c4.css.map": "/React-Student-Admin-Dashboard/static/css/main.7da460c4.css.map",
-    "main.dad17551.js.map": "/React-Student-Admin-Dashboard/static/js/main.dad17551.js.map"
+    "main.1bbe6671.js.map": "/React-Student-Admin-Dashboard/static/js/main.1bbe6671.js.map"
   },
   "entrypoints": [
     "static/css/main.7da460c4.css",
-    "static/js/main.dad17551.js"
+    "static/js/main.1bbe6671.js"
   ]
 }
